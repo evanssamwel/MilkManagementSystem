@@ -1,0 +1,59 @@
+c:\users\dell\documents\visual studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\MilkDairyManagementSystemVB.exe.config
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\dairy.mdf
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\dairy_log.ldf
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\MilkDairyManagementSystemVB.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\MilkDairyManagementSystemVB.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\MilkDairyManagementSystemVB.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.vbprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.Form1.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.Home.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.MilkDairy.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.NewAccount.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.SearchAccount.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.SearchMilkDairyRecord.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.SetFatePrice.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.vbproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.xml
+C:\Users\dell\Documents\Visual Studio 2015\Projects\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.pdb
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\dairy.mdf
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\dairy_log.ldf
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\MilkDairyManagementSystemVB.exe.config
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\MilkDairyManagementSystemVB.exe
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\MilkDairyManagementSystemVB.pdb
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\MilkDairyManagementSystemVB.xml
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.vbprojResolveAssemblyReference.cache
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.Form1.resources
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.Home.resources
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.MilkDairy.resources
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.Resources.resources
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.NewAccount.resources
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.SearchAccount.resources
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.SearchMilkDairyRecord.resources
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.SetFatePrice.resources
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.vbproj.GenerateResource.Cache
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.vbproj.CoreCompileInputs.cache
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.exe
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.xml
+F:\Sem.4\extra vs code\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\dairy.mdf
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\dairy_log.ldf
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\MilkDairyManagementSystemVB.exe.config
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\MilkDairyManagementSystemVB.exe
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\MilkDairyManagementSystemVB.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\bin\Debug\MilkDairyManagementSystemVB.xml
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.vbprojResolveAssemblyReference.cache
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.Form1.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.Home.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.MilkDairy.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.Resources.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.NewAccount.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.SearchAccount.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.SearchMilkDairyRecord.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.SetFatePrice.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.vbproj.GenerateResource.Cache
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.vbproj.CoreCompileInputs.cache
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.exe
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.xml
+F:\Code Projects Files\NEWW C Projects 19nov\MilkDairyManagementSystem_VB.NET\MilkDairyManagementSystemVB\MilkDairyManagementSystemVB\obj\Debug\MilkDairyManagementSystemVB.pdb
